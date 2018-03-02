@@ -10,7 +10,7 @@
         <div class="card-panel lima">
             <h1 class="center-align">Nuestros Programas</h1>
             <div class="row">
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img10.jpg" class="">
@@ -18,8 +18,8 @@
                             <a href="#modal1" class="btn modal-trigger btn-floating halfway-fab waves-effect lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">EDUCACIÓN</span>
-                            <p>Para "FUNDAMIDA" Nuestra prioridad es la educacion, entendida como el sustento primordial...</p>
+                            <span class="card-title truncate">EDUCACIÓN</span>
+                            <p class="truncate">Para "FUNDAMIDA" Nuestra prioridad es la educacion, entendida como el sustento primordial...</p>
                         </div>
                         <div id="modal1" class="modal modal-fixed-footer gallery-body bottom-sheet">
                              
@@ -42,7 +42,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img8.jpg">
@@ -50,8 +50,8 @@
                             <a href="#modal2" class="btn modal-trigger btn-floating halfway-fab waves-effect lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">EDUCACION AMBIENTAL</span>
-                            <p>Creación de grupos ambientales, reforestación, recuperacion de cuencas y micro-cuentas
+                            <span class="card-title truncate">EDUCACION AMBIENTAL</span>
+                            <p class="truncate">Creación de grupos ambientales, reforestación, recuperacion de cuencas y micro-cuentas
                                 ...</p>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img17.jpg">
@@ -76,9 +76,9 @@
                             <a href="#modal3" class="btn modal-trigger btn-floating halfway-fab waves-effect lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">ADULTO MAYOR</span>
-                            <p>apoyo al hogar del anciano, en salud, alimentos, vestuario,
-                             recreacion y cultura.</p>
+                            <span class="card-title truncate">ADULTO MAYOR</span>
+                            <p class="truncate">apoyo al hogar del anciano, en salud, alimentos, vestuario,
+                             recreacion y cultura...</p>
                         </div>
                     </div>
                     <div id="modal3" class="modal modal-fixed-footer gallery-body bottom-sheet">
@@ -94,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img9.jpg">
@@ -102,8 +102,9 @@
                             <a href="#modal4" class="btn modal-trigger btn-floating halfway-fab waves-effect lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">CULTURA</span>
-                            <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                            <span class="card-title truncate">CULTURA</span>
+                            <p class="truncate">apoyo a escuela de musica, bandas marciales y/o musicales,
+                                grupos de teatro....</p>
                         </div>
                     </div>
                     <div id="modal4" class="modal modal-fixed-footer gallery-body bottom-sheet">
@@ -120,7 +121,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img22.jpg">
@@ -128,8 +129,9 @@
                             <a href="#modal5" class="btn modal-trigger btn-floating halfway-fab waves-effect lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">MADRES CABEZA DE FAMILIA</span>
-                            <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                            <span class="card-title truncate">MADRES CABEZA DE FAMILIA</span>
+                            <p class="truncate">Gestion de proyectos que puedan contribuir a mejorar sus ingresos
+                                y proyectar su plan de vida..</p>
                         </div>
                     </div>
                     <div id="modal5" class="modal modal-fixed-footer gallery-body bottom-sheet">
@@ -145,7 +147,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col m4">
+                <div class="col s12 m6 l4">
                     <div class="card z-depth-5">
                         <div class="card-image">
                             <img src="img/img28.jpg">
@@ -153,8 +155,10 @@
                             <a href="#modal6" class="btn modal-trigger btn-floating halfway-fab waves-effect  lima"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title">CAMPAÑAS DE SALUD FICISA Y MENTAL</span>
-                            <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                            <span class="card-title truncate">CAMPAÑAS DE SALUD FISICA Y MENTAL</span>
+                            <p class="truncate">Realizacion de campañas, sobre adicciones, educaion en promocion
+                            y prevencion de enfermedades...
+                            </p>
                         </div>
                     </div>
                     <div id="modal6" class="modal modal-fixed-footer gallery-body bottom-sheet">
