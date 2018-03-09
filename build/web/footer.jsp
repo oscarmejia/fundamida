@@ -10,12 +10,12 @@
               <div class="row">
                 <div class="col l6 s12">
                   <h3 class="black-text">FUNDAMIDA</h3>
-                  <div class="col l4 s12">
+                  <div class="col l8 s12">
                       <h4 class="black-text">Contacto</h4>
                       <ul>
-                        <li><p class="black-text text-lighten-3" ><strong>Celular:</strong> 310-500-4664</p></li>
+                          <li><p class="black-text text-lighten-3" ><strong>Celular:</strong> 310-408-5800 - 301-427-3581</p></li>
                         <li><p class="black-text text-lighten-3" ><strong>E-mail:</strong> fundamida@gmail.com</p></li>
-                        <li><p class="black-text text-lighten-3" ><strong>Telefono:</strong> 227-08-70</p></li>
+                        
                       </ul>
                     </div>
                 </div>
@@ -31,9 +31,9 @@
               </div>
             </div>
             <div class="footer-copyright">
-              <div class="container black-text">
-              © 2014 Copyright Text
-              <a class="black-text text-lighten-4 right" href="#!">More Links</a>
+                <div class="container black-text center-align">
+              © 2018 Derechos Reservados FUNDAMIDA
+              
               </div>
             </div>
           </footer>

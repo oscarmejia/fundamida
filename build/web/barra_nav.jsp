@@ -17,14 +17,14 @@
         </h5>
     </div>
     <div class="col s12 m12 l10">
-<ul id="dropdown2" class="dropdown-content">
+<ul id="dropdown2" class="dropdown-content lima black-text">
                         <li><a href="fundacion.jsp">Fundacion</a></li>
-                        <li><a href="">Aliados y Voluntarios</a></li>
+                        <li><a href="voluntariosYaliados.jsp">Aliados y Voluntarios</a></li>
                         <li><a href="">Eventos</a></li>
                     </ul>
         <nav>
             <div class="nav-wrapper">
-                <a href="#" class="brand-logo valign-wrapper"><h3 class="texto-logo black-text">FUNDAMIDA</h3>
+                <a href="Index.jsp" class="brand-logo valign-wrapper"><h3 class="texto-logo black-text">FUNDAMIDA</h3>
                 </a>
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-only">
@@ -32,16 +32,16 @@
                     <li><a href="quieneSomos.jsp">Quienes Somos</a></li>
                     <li><a class="dropdown-button" href="#" data-activates="dropdown2">Fundacion<i class="material-icons right">arrow_drop_down</i></a></li>
                     
-                    <li><a href="">Contactenos</a></li>
+                    <li><a href="contactenos.jsp">Contactenos</a></li>
                     <li><a href="pasarela.jsp">Donaciones</a></li>
                 </ul>
                 <ul class="side-nav" id="mobile-demo">
                     <li><a href="Index.jsp">Inicio</a></li>
                     <li><a href="quieneSomos.jsp">Quienes Somos</a></li>
                     <li><a href="fundacion.jsp">Fundacion</a></li>
-                        <li><a href="">Aliados y Voluntarios</a></li>
+                    <li><a href="voluntariosYaliados.jsp">Aliados y Voluntarios</a></li>
                         <li><a href="">Eventos</a></li>
-                    <li><a href="">Contactenos</a></li>
+                        <li><a href="contactenos.jsp">Contactenos</a></li>
                     <li><a href="pasarela.jsp">Donaciones</a></li>
                 </ul>
             </div>
@@ -59,24 +59,15 @@
                         </li>
                         <li>
                             <img src="img/img2.jpg"> <!-- random image -->
-                            <div class="caption left-align">
-                                <h3>Left Aligned Caption</h3>
-                                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-                            </div>
+                            
                         </li>
                         <li>
                             <img src="img/img3.jpg"> <!-- random image -->
-                            <div class="caption right-align">
-                                <h3>Right Aligned Caption</h3>
-                                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-                            </div>
+                            
                         </li>
                         <li>
                             <img src="img/img4.jpg"> <!-- random image -->
-                            <div class="caption center-align">
-                                <h3>This is our big Tagline!</h3>
-                                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-                            </div>
+                            
                         </li>
                     </ul>
                 </div>
